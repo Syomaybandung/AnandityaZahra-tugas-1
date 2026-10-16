@@ -9,7 +9,7 @@ body {
     font-family: "Doppio One", sans-serif;
     font-weight: 400;
     font-style: normal; 
-    background-color: #fafcfd; /* Warna latar terang */  
+    background-color: #fafcfd; 
     color: #e0b361;  
     display: flex;  
     justify-content: center;  
@@ -19,14 +19,14 @@ body {
 } 
 
 .kartu-profil {  
-    background-color: #785024;  
+    background-color: #7e5326;  
     border-radius: 16px;  
     padding: 40px;  
     max-width: 500px; 
     width: 100%;  
-    border: 1px solid #e3d5cc; 
-}
-
+    border: 1px solid #ca9116; 
+}                               
+                
 .kartu-profil:hover {
     border-color: #1c0d01;
     transition: border-color 0.3s ease;
@@ -38,7 +38,7 @@ h1 {
     font-weight: 400;
     font-style: normal; 
     font-size: 28px;  
-    color: #E6D1AB; /* Coklat tua */  
+    color: #E6D1AB; 
     margin-bottom: 6px; 
 }
 
